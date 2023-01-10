@@ -1,0 +1,8 @@
+"Éves_településstatisztikai_adatok_2021-es_településszerkezetben — TA2021_W_A település területe (km2)" < 100 AND "Éves_településstatisztikai_adatok_2021-es_településszerkezetben — TA2021_W_Összes személyi sérüléssel járó közúti közlekedési baleset (eset)" IS NOT NULL AND "Éves_településstatisztikai_adatok_2021-es_településszerkezetben — TA2021_W_Az ittasan okozott balesetek száma (eset)" IS NOT NULL
+
+
+
+
+3. feladat:
+substr("Éves_településstatisztikai_adatok_2021-es_településszerkezetben — TA2021_W_Járások", strpos("Éves_településstatisztikai_adatok_2021-es_településszerkezetben — TA2021_W_Járások", ' ')+3)
+Éves_te_4 - Éves_te35
